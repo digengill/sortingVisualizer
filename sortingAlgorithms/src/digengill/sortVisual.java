@@ -120,7 +120,7 @@ public class sortVisual extends JPanel implements ActionListener {
 	public void actionPerformed(ActionEvent e) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Hello"+ isSorting);
+		System.out.println("Hello");
 		
 		
 		                int n = heightsRatio.length; 
